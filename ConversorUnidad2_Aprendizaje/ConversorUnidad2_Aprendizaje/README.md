@@ -1,9 +1,5 @@
 # Conversor de Base Numérica con Java Streams
 
-## Autor
-Israel Fuentes  
-Universidad de Cartagena – Ingeniería de Software
-
 ## Descripción
 Este programa convierte un número en base 10 a **binario, octal y hexadecimal**.  
 Además, realiza operaciones sobre los dígitos binarios usando **Java Streams**:
@@ -38,3 +34,6 @@ Dígitos multiplicados por 2: [2, 2, 0, 0, 2]
 Suma de dígitos binarios: 3
 Cantidad de dígitos: 5
 ```
+## Autor
+Israel Fuentes  
+Universidad de Cartagena – Ingeniería de Software
